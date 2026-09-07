@@ -129,6 +129,9 @@ bool PairingHandler::requestPairing()
 bool PairingHandler::acceptPairing()
 {
     m_pairingTimeout.stop();
+    if (m_pairState == PairState::Paired) {
+        return true;
+    }
     NetworkPacket np(PACKET_TYPE_PAIR, {{QStringLiteral("pair"), true}});
     const bool success = m_device->sendPacket(np);
     if (success) {
