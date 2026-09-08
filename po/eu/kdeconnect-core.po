@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-09-02 00:43+0000\n"
+"POT-Creation-Date: 2026-09-08 00:45+0000\n"
 "PO-Revision-Date: 2026-08-16 13:17+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
@@ -67,17 +67,17 @@ msgstr "%1: dagoeneko parekatuta"
 msgid "%1: Device not reachable"
 msgstr "%1: Gailua ez dago eskuragarri"
 
-#: backends/pairinghandler.cpp:139
+#: backends/pairinghandler.cpp:142
 #, kde-format
 msgid "Device not reachable"
 msgstr "Gailua ez dago eskuragarri"
 
-#: backends/pairinghandler.cpp:150
+#: backends/pairinghandler.cpp:153
 #, kde-format
 msgid "Cancelled by user"
 msgstr "Erabiltzaileak bertan behera utzi du"
 
-#: backends/pairinghandler.cpp:166
+#: backends/pairinghandler.cpp:169
 #, kde-format
 msgid "Timed out"
 msgstr "Denbora-muga agortu da"

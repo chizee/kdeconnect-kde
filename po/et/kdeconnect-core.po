@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-09-02 00:43+0000\n"
+"POT-Creation-Date: 2026-09-08 00:45+0000\n"
 "PO-Revision-Date: 2019-11-29 20:54+0200\n"
 "Last-Translator: Marek Laane <qiilaq69@gmail.com>\n"
 "Language-Team: Estonian <kde-et@lists.linux.ee>\n"
@@ -63,18 +63,18 @@ msgstr "%1: juba paardunud"
 msgid "%1: Device not reachable"
 msgstr "Seade pole saadaval"
 
-#: backends/pairinghandler.cpp:139
+#: backends/pairinghandler.cpp:142
 #, kde-format
 msgid "Device not reachable"
 msgstr "Seade pole saadaval"
 
-#: backends/pairinghandler.cpp:150
+#: backends/pairinghandler.cpp:153
 #, fuzzy, kde-format
 #| msgid "Canceled by the user"
 msgid "Cancelled by user"
 msgstr "Kasutaja katkestas"
 
-#: backends/pairinghandler.cpp:166
+#: backends/pairinghandler.cpp:169
 #, kde-format
 msgid "Timed out"
 msgstr "Ajaületus"

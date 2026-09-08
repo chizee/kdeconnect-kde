@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-09-02 00:43+0000\n"
+"POT-Creation-Date: 2026-09-08 00:45+0000\n"
 "PO-Revision-Date: 2021-06-14 15:37+0300\n"
 "Last-Translator: Stelios <sstavra@gmail.com>\n"
 "Language-Team: Greek <kde-i18n-el@kde.org>\n"
@@ -63,17 +63,17 @@ msgstr "%1: Έχει γίνει ήδη σύζευξη"
 msgid "%1: Device not reachable"
 msgstr "%1: Η συσκευή δεν είναι προσβάσιμη"
 
-#: backends/pairinghandler.cpp:139
+#: backends/pairinghandler.cpp:142
 #, kde-format
 msgid "Device not reachable"
 msgstr "Η συσκευή δεν είναι προσβάσιμη"
 
-#: backends/pairinghandler.cpp:150
+#: backends/pairinghandler.cpp:153
 #, kde-format
 msgid "Cancelled by user"
 msgstr "Ακυρώθηκε από τον χρήστη"
 
-#: backends/pairinghandler.cpp:166
+#: backends/pairinghandler.cpp:169
 #, kde-format
 msgid "Timed out"
 msgstr "Λήξη χρονικού περιθωρίου"
