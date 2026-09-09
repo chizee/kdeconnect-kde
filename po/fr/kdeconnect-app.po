@@ -265,13 +265,13 @@ msgstr "Périphériques"
 #, kde-format
 msgctxt "@action:button"
 msgid "Refresh"
-msgstr "Rafraîchir"
+msgstr "Rafraichir"
 
 #: qml/Main.qml:116
 #, kde-format
 msgctxt "@action:button accessible"
 msgid "Refresh Devices"
-msgstr "Rafraîchir la liste des périphériques"
+msgstr "Rafraichir la liste des périphériques"
 
 #: qml/Main.qml:152
 #, kde-format
